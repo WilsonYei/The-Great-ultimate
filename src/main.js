@@ -10,8 +10,8 @@ let string =
 */
 #div1{
     border:1px solid red;
-    width:400px;
-    height:400px;
+    width:300px;
+    height:300px;
 
 }
 /*接下来我要把div变成一个八卦图
@@ -37,8 +37,8 @@ let string =
     top:0;
     left:50%;
     transform: translateX(-50%);
-    width:200px;
-    height:200px; 
+    width:150px;
+    height:150px; 
     border-radius:50%;
     background-color: black;
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 25%, rgba(0,0,0,1) 25%, rgba(0,0,0,1) 100%);
